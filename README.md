@@ -41,7 +41,7 @@ machine learning, and data-driven decision-making using Python.
 - Focus on engineering and sustainability impact
 
 ### Vehicle Fuel Efficiency Prediction
-- 📄 [Final Report (PDF)]()
+- 📄 [Final Report (PDF)](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/c9efdc77371b83b43182a8dc312449d58ec147c4/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.docx)
 - 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/a31b8f4d9dbe4ab3de087501d82100b7173b040f/fuel%20efficiency1.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
