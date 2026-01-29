@@ -1,9 +1,32 @@
 # predictive-analytics-portfolio-2
 Data analytics and machine learning portfolio showcasing predictive modeling projects.
-.ipynb
-.py
-.pdf
-.png / .jpg
+predictive-analytics-portfolio/
+│
+├── README.md
+│
+├── vehicle-fuel-efficiency/
+│   ├── vehicle_fuel_efficiency.ipynb
+│   ├── report.pdf
+│   ├── visuals/
+│   │   ├── correlation_matrix.png
+│   │   ├── feature_importance.png
+│
+├── loan-approval-prediction/
+│   ├── loan_approval.ipynb
+│   ├── report.pdf
+│   ├── visuals/
+│   │   ├── roc_curve.png
+│   │   ├── confusion_matrix.png
+│
+├── magazine-subscription-analysis/
+│   ├── subscription_model.py
+│   ├── report.pdf
+│   ├── visuals/
+│   │   ├── model_comparison.png
+│   │   ├── confusion_matrix.png
+│
+└── data/
+    └── README.md   # (describe datasets, don't upload private data)
 
 # Predictive Analytics Portfolio – Daniel Mackaemba
 
