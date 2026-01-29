@@ -40,7 +40,7 @@ machine learning, and data-driven decision-making using Python.
 - R² = 0.82, RMSE = 3.4 MPG
 - Focus on engineering and sustainability impact
 
-### Personal Loan Approval Prediction
+### Vehicle Fuel Efficiency Prediction
 - 📄 [Final Report (PDF)]()
 - 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/a31b8f4d9dbe4ab3de087501d82100b7173b040f/fuel%20efficiency1.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
