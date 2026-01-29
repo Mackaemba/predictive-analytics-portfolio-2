@@ -52,7 +52,7 @@ machine learning, and data-driven decision-making using Python.
   
 ### Personal Loan Approval Prediction
 - 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
-- 📓 [Python Script](magazine-subscription-analysis/subscription_model.py)
+- 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/7abe863aec0976fcbdcbc207049ae6964fc47dd7/Bank.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
 
