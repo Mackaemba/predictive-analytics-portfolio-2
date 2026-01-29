@@ -62,7 +62,7 @@ machine learning, and data-driven decision-making using Python.
 - Marketing targeting optimization
   
 ### Magazine Subscription Behavior Analysis
-- 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
+- 📄 [Final Report (PDF)](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/7abe863aec0976fcbdcbc207049ae6964fc47dd7/Magazine%20Subscription%20Behavior%20Analysis%20Report.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/7abe863aec0976fcbdcbc207049ae6964fc47dd7/marketing.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
