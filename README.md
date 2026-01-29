@@ -41,7 +41,7 @@ machine learning, and data-driven decision-making using Python.
 - Focus on engineering and sustainability impact
 
 ### Personal Loan Approval Prediction
-- 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
+- 📄 [Final Report (PDF)]()
 - 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/a31b8f4d9dbe4ab3de087501d82100b7173b040f/fuel%20efficiency1.ipynb)
 - 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 
