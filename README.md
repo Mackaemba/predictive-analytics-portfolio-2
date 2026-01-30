@@ -64,7 +64,7 @@ machine learning, and data-driven decision-making using Python.
 ### Magazine Subscription Behavior Analysis
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/7abe863aec0976fcbdcbc207049ae6964fc47dd7/Magazine%20Subscription%20Behavior%20Analysis%20Report.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/7abe863aec0976fcbdcbc207049ae6964fc47dd7/marketing.ipynb)
-- 📊 [Visualizations](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/d09be82bfdd9a568880ac248baf90a61f2aae465/eda_visualizations_wk5.pdf)
+- 📊 [Visualizations](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/d09be82bfdd9a568880ac248baf90a61f2aae465/numeric_distributions%20wk6.pdf)
 
 ## Tools & Skills
 Python, pandas, scikit-learn, SQL, data visualization, machine learning
