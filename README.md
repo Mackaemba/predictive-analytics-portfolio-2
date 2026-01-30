@@ -43,8 +43,7 @@ machine learning, and data-driven decision-making using Python.
 ### Vehicle Fuel Efficiency Prediction
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/172b2f642a165b4b8f0a7b08905f1a27d4a8a3e2/REPORT%20ON%20BUILDING%20THE%20CAR%20OF%20THE%20FUTURE.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/a31b8f4d9dbe4ab3de087501d82100b7173b040f/fuel%20efficiency1.ipynb)
-- 📊 [Visualizations](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/bc68bdd0771a0c9872706d59c7d7b55a8d5ed179/exploratory_analysis.png)
-
+- 📊 [Visualizations](magazine-subscription-analysis/visuals/)
 ### 2. Personal Loan Approval Prediction
 - Logistic Regression classification model
 - Accuracy: 98.73%, ROC-AUC: 0.9924
