@@ -51,7 +51,7 @@ machine learning, and data-driven decision-making using Python.
 - Business use case: automated loan pre-screening
   
 ### Personal Loan Approval Prediction
-- 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
+- 📄 [Final Report (PDF)](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/40f3e46348311072fd30ff5c01df30f10ea078be/Predictive%20Analysis%20of%20Personal%20Loan%20Approval%20Using%20Logistic%20Regression.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/7abe863aec0976fcbdcbc207049ae6964fc47dd7/Bank.ipynb)
 - 📊 [Visualizations](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/2e880ff9ddf3820fd238d6844bc643b7f0aed906/eda_visualizations_wk5.pdf)
 
