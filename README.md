@@ -53,7 +53,7 @@ machine learning, and data-driven decision-making using Python.
 ### Personal Loan Approval Prediction
 - 📄 [Final Report (PDF)](magazine-subscription-analysis/report.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/7abe863aec0976fcbdcbc207049ae6964fc47dd7/Bank.ipynb)
-- 📊 [Visualizations](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/5d49cc872dd9e6a404bce5495b977f4b006a8579/exploratory_analysis.pdf)
+- 📊 [Visualizations](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/d09be82bfdd9a568880ac248baf90a61f2aae465/eda_visualizations_wk5.pdf)
 
 
 ### 3. Magazine Subscription Behavior Analysis
@@ -64,7 +64,7 @@ machine learning, and data-driven decision-making using Python.
 ### Magazine Subscription Behavior Analysis
 - 📄 [Final Report (PDF)](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/7abe863aec0976fcbdcbc207049ae6964fc47dd7/Magazine%20Subscription%20Behavior%20Analysis%20Report.pdf)
 - 📓 [Python Script](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/7abe863aec0976fcbdcbc207049ae6964fc47dd7/marketing.ipynb)
-- 📊 [Visualizations](magazine-subscription-analysis/visuals/)
+- 📊 [Visualizations](https://github.com/Mackaemba/predictive-analytics-portfolio-2/blob/d09be82bfdd9a568880ac248baf90a61f2aae465/eda_visualizations_wk5.pdf)
 
 ## Tools & Skills
 Python, pandas, scikit-learn, SQL, data visualization, machine learning
